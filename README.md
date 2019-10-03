@@ -1,5 +1,5 @@
 ## Sentiment Analysis Web App - SageMaker Deployment Project
-#### Develop PyTorch Model and Deploy to AWS via SageMaker [Jupyter Notebook](https://nbviewer.jupyter.org/github/Pyligent/Sentiment-Analysis-AWS-deployment/blob/master/SageMaker%20Project.ipynb)
+#### Develop PyTorch Model and Deploy to AWS via SageMaker 
 
 - Reference: `Maas, Andrew L., et al. [Learning Word Vectors for Sentiment Analysis](http://ai.stanford.edu/~amaas/data/sentiment/). In _Proceedings of the 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies_. Association for Computational Linguistics, 2011.`
 
@@ -7,6 +7,7 @@
 
 ### Project Overview
 
+[Jupyter Notebook - Model and Deployment](https://nbviewer.jupyter.org/github/Pyligent/Sentiment-Analysis-AWS-deployment/blob/master/SageMaker%20Project.ipynb)
 #### 1. Download or otherwise retrieve the data
 
 - IMDB Review DataSet: http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz
