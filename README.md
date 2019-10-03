@@ -1,5 +1,14 @@
-# SageMaker Deployment Project
+# Sentiment Analysis Web App - Develop PyTorch Model and Deploy to AWS via SageMaker
+## SageMaker Deployment Project
 
-The notebook and Python files provided here, once completed, result in a simple web app which interacts with a deployed recurrent neural network performing sentiment analysis on movie reviews. This project assumes some familiarity with SageMaker, the mini-project, Sentiment Analysis using XGBoost, should provide enough background.
+#### Reference: Maas, Andrew L., et al. [Learning Word Vectors for Sentiment Analysis](http://ai.stanford.edu/~amaas/data/sentiment/). In _Proceedings of the 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies_. Association for Computational Linguistics, 2011.
 
-Please see the [README](https://github.com/udacity/sagemaker-deployment/tree/master/README.md) in the root directory for instructions on setting up a SageMaker notebook and downloading the project files (as well as the other notebooks).
+### Project  Outline
+
+#### 1. Download or otherwise retrieve the data.
+#### 2. Process / Prepare the data.
+#### 3. Upload the processed data to S3.
+#### 4. Train a chosen model.
+#### 5. Test the trained model (typically using a batch transform job).
+#### 6. Deploy the trained model.
+#### 7. Use the deployed model.
