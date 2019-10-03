@@ -56,7 +56,7 @@ each of which interact with one another. We develop a PyTorch model for sentimen
 
 - For the simple website that we are constructing during this project, the input_fn and output_fn methods are relatively straightforward. We only require being able to accept a string as input and we expect to return a single value as output. You might imagine though that in a more complex application the input or output may be image data or some other binary data which would require some effort to serialize.
 
-#### AWS Lambda and API Gateway for Web App
+#### 8. AWS Lambda and API Gateway for Web App
 
 - The AWS Deployment Web Data Flow
 
