@@ -1,9 +1,11 @@
-# Sentiment Analysis Web App - Develop PyTorch Model and Deploy to AWS via SageMaker
-## SageMaker Deployment Project
+# Sentiment Analysis Web App - SageMaker Deployment Project
+- Develop PyTorch Model and Deploy to AWS via SageMaker
 
-#### Reference: Maas, Andrew L., et al. [Learning Word Vectors for Sentiment Analysis](http://ai.stanford.edu/~amaas/data/sentiment/). In _Proceedings of the 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies_. Association for Computational Linguistics, 2011.
 
-### Project  Outline
+#### Reference:
+- Maas, Andrew L., et al. [Learning Word Vectors for Sentiment Analysis](http://ai.stanford.edu/~amaas/data/sentiment/). In _Proceedings of the 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies_. Association for Computational Linguistics, 2011.
+
+### Project Overview
 
 #### 1. Download or otherwise retrieve the data.
 #### 2. Process / Prepare the data.
