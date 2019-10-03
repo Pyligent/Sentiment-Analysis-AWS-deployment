@@ -74,6 +74,7 @@ The diagram above gives an overview of how the various services will work togeth
  - Setup API Gateway
  
  
+<hr>
 
-
-
+#### Delete the endpoint
+Remember to always shut down your endpoint if you are no longer using it. You are charged for the length of time that the endpoint is running so if you forget and leave it on you could end up with an unexpectedly large bill.
