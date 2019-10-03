@@ -1,5 +1,5 @@
 ## Sentiment Analysis Web App - SageMaker Deployment Project
-#### Develop PyTorch Model and Deploy to AWS via SageMaker
+#### Develop PyTorch Model and Deploy to AWS via SageMaker [Jupyter Notebook](https://nbviewer.jupyter.org/github/Pyligent/Sentiment-Analysis-AWS-deployment/blob/master/SageMaker%20Project.ipynb)
 
 - Reference: `Maas, Andrew L., et al. [Learning Word Vectors for Sentiment Analysis](http://ai.stanford.edu/~amaas/data/sentiment/). In _Proceedings of the 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies_. Association for Computational Linguistics, 2011.`
 
@@ -72,6 +72,15 @@ The diagram above gives an overview of how the various services will work togeth
   - This Lambda function will be executed whenever our public API has data sent to it. When it is executed it will receive the data, perform any sort of processing that is required, send the data (the review) to the SageMaker endpoint we've created and then return the result.
   
  - Setup API Gateway
+ 
+ #### 9. Sentiment Analysis Web App Examples
+ 
+ Example 1: ![fig1](https://github.com/Pyligent/Sentiment-Analysis-AWS-deployment/blob/master/example1.png)
+ 
+ <hr>
+ 
+ Example 2: ![fig1](https://github.com/Pyligent/Sentiment-Analysis-AWS-deployment/blob/master/example2.png)
+ 
  
  
 <hr>
