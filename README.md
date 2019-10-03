@@ -8,8 +8,11 @@
 ### Project Overview
 
 [[Jupyter Notebook - Model and Deployment]](https://nbviewer.jupyter.org/github/Pyligent/Sentiment-Analysis-AWS-deployment/blob/master/SageMaker%20Project.ipynb)
+   
 [[Model Train Folder]](https://github.com/Pyligent/Sentiment-Analysis-AWS-deployment/tree/master/train)
+   
 [[Model Predict Folder]](https://github.com/Pyligent/Sentiment-Analysis-AWS-deployment/tree/master/serve)
+   
 #### 1. Download or otherwise retrieve the data
 
 - IMDB Review DataSet: http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz
